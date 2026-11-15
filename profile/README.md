@@ -1,14 +1,17 @@
 <div align="center">
 
-<a href="https://criza.dev"><img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/banner.png" alt="Criza Labs: Your Vision. Our Technology." width="100%" /></a>
+<a href="https://criza.dev"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/banner-dark.png" />
+  <img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/banner-light.png" alt="Criza Labs: Your Vision. Our Technology." width="100%" />
+</picture></a>
 
 <br />
 <br />
 
-<a href="https://criza.dev"><img src="https://img.shields.io/badge/Website-criza.dev-fd352a?style=for-the-badge&labelColor=08090d" alt="criza.dev" /></a>
-<a href="https://voise.criza.dev"><img src="https://img.shields.io/badge/CrizaVoise-Free%20billing%20app-f51e91?style=for-the-badge&labelColor=08090d" alt="CrizaVoise" /></a>
-<a href="https://criza.web.id"><img src="https://img.shields.io/badge/CrizaTools-Free%20browser%20tools-ffb000?style=for-the-badge&labelColor=08090d" alt="CrizaTools" /></a>
-<a href="mailto:info@criza.dev"><img src="https://img.shields.io/badge/Email-info%40criza.dev-019ffb?style=for-the-badge&labelColor=08090d" alt="Email Criza Labs" /></a>
+<a href="https://criza.dev"><img src="https://img.shields.io/badge/Website-criza.dev-0a7a5e?style=for-the-badge&labelColor=111318" alt="criza.dev" /></a>
+<a href="https://voise.criza.dev"><img src="https://img.shields.io/badge/CrizaVoise-Free%20billing%20app-d4361c?style=for-the-badge&labelColor=111318" alt="CrizaVoise" /></a>
+<a href="https://criza.web.id"><img src="https://img.shields.io/badge/CrizaTools-Free%20browser%20tools-ffb000?style=for-the-badge&labelColor=111318" alt="CrizaTools" /></a>
+<a href="mailto:info@criza.dev"><img src="https://img.shields.io/badge/Email-info%40criza.dev-2140c8?style=for-the-badge&labelColor=111318" alt="Email Criza Labs" /></a>
 
 <br />
 <br />
@@ -46,7 +49,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://voise.criza.dev"><img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizavoise.png" alt="CrizaVoise dashboard" width="100%" /></a>
+      <a href="https://voise.criza.dev"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizavoise-dark.png" />
+  <img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizavoise-light.png" alt="CrizaVoise dashboard" width="100%" />
+</picture></a>
       <h3><img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizavoise-icon.png" width="28" height="28" align="top" alt="" />&nbsp; CrizaVoise</h3>
       <sub><b>FREE, OPEN-SOURCE BILLING SOFTWARE</b></sub>
       <p>GST invoices, quotations, thermal receipts, stock and payments for small businesses. It works fully offline on Windows, Linux and macOS, and the data stays on the user's computer.</p>
@@ -54,7 +60,10 @@
       <p><a href="https://voise.criza.dev"><b>Download free</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/CRIZA-LABS/crizavoise">Source code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://criza.web.id"><img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizatools.png" alt="CrizaTools home page" width="100%" /></a>
+      <a href="https://criza.web.id"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizatools-dark.png" />
+  <img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizatools-light.png" alt="CrizaTools home page" width="100%" />
+</picture></a>
       <h3><img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizatools-icon.png" width="28" height="28" align="top" alt="" />&nbsp; CrizaTools</h3>
       <sub><b>27 FREE TOOLS THAT RUN IN YOUR BROWSER</b></sub>
       <p>JPG to PDF, merge PDF, an image compressor, GST, EMI and SIP calculators, QR codes and a GST invoice generator. No sign-up, nothing uploaded, and it installs as an app that works offline.</p>
@@ -112,7 +121,7 @@
       <h3>AbrarAli S.</h3>
       <sub>CO-FOUNDER &middot; FULL-STACK &amp; AI ENGINEER</sub>
       <br /><br />
-      <a href="https://github.com/AbraraliS"><img src="https://img.shields.io/badge/GitHub-AbraraliS-08090d?style=flat-square&logo=github" alt="AbraraliS on GitHub" /></a>
+      <a href="https://github.com/AbraraliS"><img src="https://img.shields.io/badge/GitHub-AbraraliS-111318?style=flat-square&logo=github" alt="AbraraliS on GitHub" /></a>
       <br /><br />
     </td>
     <td align="center" width="300">
@@ -121,7 +130,7 @@
       <h3>AkbarAli N.</h3>
       <sub>CO-FOUNDER &middot; BACKEND ENGINEER</sub>
       <br /><br />
-      <a href="https://github.com/Akbarali-Nagalpara"><img src="https://img.shields.io/badge/GitHub-Akbarali--Nagalpara-08090d?style=flat-square&logo=github" alt="Akbarali-Nagalpara on GitHub" /></a>
+      <a href="https://github.com/Akbarali-Nagalpara"><img src="https://img.shields.io/badge/GitHub-Akbarali--Nagalpara-111318?style=flat-square&logo=github" alt="Akbarali-Nagalpara on GitHub" /></a>
       <br /><br />
     </td>
   </tr>
@@ -129,7 +138,10 @@
 
 <br />
 
-<a href="https://criza.dev"><img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/cta.png" alt="Planning a website, an app or an automation? Start a project at criza.dev or email info@criza.dev" width="100%" /></a>
+<a href="https://criza.dev"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/cta-dark.png" />
+  <img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/cta-light.png" alt="Planning a website, an app or an automation? Start a project at criza.dev or email info@criza.dev" width="100%" />
+</picture></a>
 
 <div align="center">
   <br />
