@@ -8,10 +8,10 @@
 <br />
 <br />
 
-<a href="https://criza.dev"><img src="https://img.shields.io/badge/Website-criza.dev-0a7a5e?style=for-the-badge&labelColor=111318" alt="criza.dev" /></a>
-<a href="https://voise.criza.dev"><img src="https://img.shields.io/badge/CrizaVoise-Free%20billing%20app-d4361c?style=for-the-badge&labelColor=111318" alt="CrizaVoise" /></a>
+<a href="https://criza.dev"><img src="https://img.shields.io/badge/Website-criza.dev-fd352a?style=for-the-badge&labelColor=111318" alt="criza.dev" /></a>
+<a href="https://voise.criza.dev"><img src="https://img.shields.io/badge/CrizaVoise-Free%20billing%20app-f51e91?style=for-the-badge&labelColor=111318" alt="CrizaVoise" /></a>
 <a href="https://criza.web.id"><img src="https://img.shields.io/badge/CrizaTools-Free%20browser%20tools-ffb000?style=for-the-badge&labelColor=111318" alt="CrizaTools" /></a>
-<a href="mailto:info@criza.dev"><img src="https://img.shields.io/badge/Email-info%40criza.dev-2140c8?style=for-the-badge&labelColor=111318" alt="Email Criza Labs" /></a>
+<a href="mailto:info@criza.dev"><img src="https://img.shields.io/badge/Email-info%40criza.dev-019ffb?style=for-the-badge&labelColor=111318" alt="Email Criza Labs" /></a>
 
 <br />
 <br />
