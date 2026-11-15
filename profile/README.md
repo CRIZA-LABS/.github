@@ -8,10 +8,10 @@
 <br />
 <br />
 
-<a href="https://criza.dev"><img src="https://img.shields.io/badge/Website-criza.dev-fd352a?style=for-the-badge&labelColor=111318" alt="criza.dev" /></a>
-<a href="https://voise.criza.dev"><img src="https://img.shields.io/badge/CrizaVoise-Free%20billing%20app-f51e91?style=for-the-badge&labelColor=111318" alt="CrizaVoise" /></a>
-<a href="https://criza.web.id"><img src="https://img.shields.io/badge/CrizaTools-Free%20browser%20tools-ffb000?style=for-the-badge&labelColor=111318" alt="CrizaTools" /></a>
-<a href="mailto:info@criza.dev"><img src="https://img.shields.io/badge/Email-info%40criza.dev-019ffb?style=for-the-badge&labelColor=111318" alt="Email Criza Labs" /></a>
+<a href="https://criza.dev"><img src="https://img.shields.io/badge/Website-criza.dev-9f1239?style=for-the-badge&labelColor=2b0b14" alt="criza.dev" /></a>
+<a href="https://voise.criza.dev"><img src="https://img.shields.io/badge/CrizaVoise-Free%20billing%20app-ffd6dd?style=for-the-badge&labelColor=2b0b14" alt="CrizaVoise" /></a>
+<a href="https://criza.web.id"><img src="https://img.shields.io/badge/CrizaTools-Free%20browser%20tools-ffe6a6?style=for-the-badge&labelColor=2b0b14" alt="CrizaTools" /></a>
+<a href="mailto:info@criza.dev"><img src="https://img.shields.io/badge/Email-info%40criza.dev-e9e0ff?style=for-the-badge&labelColor=2b0b14" alt="Email Criza Labs" /></a>
 
 <br />
 <br />
@@ -121,7 +121,7 @@
       <h3>AbrarAli S.</h3>
       <sub>CO-FOUNDER &middot; FULL-STACK &amp; AI ENGINEER</sub>
       <br /><br />
-      <a href="https://github.com/AbraraliS"><img src="https://img.shields.io/badge/GitHub-AbraraliS-111318?style=flat-square&logo=github" alt="AbraraliS on GitHub" /></a>
+      <a href="https://github.com/AbraraliS"><img src="https://img.shields.io/badge/GitHub-AbraraliS-9f1239?style=flat-square&logo=github" alt="AbraraliS on GitHub" /></a>
       <br /><br />
     </td>
     <td align="center" width="300">
@@ -130,7 +130,7 @@
       <h3>AkbarAli N.</h3>
       <sub>CO-FOUNDER &middot; BACKEND ENGINEER</sub>
       <br /><br />
-      <a href="https://github.com/Akbarali-Nagalpara"><img src="https://img.shields.io/badge/GitHub-Akbarali--Nagalpara-111318?style=flat-square&logo=github" alt="Akbarali-Nagalpara on GitHub" /></a>
+      <a href="https://github.com/Akbarali-Nagalpara"><img src="https://img.shields.io/badge/GitHub-Akbarali--Nagalpara-9f1239?style=flat-square&logo=github" alt="Akbarali-Nagalpara on GitHub" /></a>
       <br /><br />
     </td>
   </tr>
