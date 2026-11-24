@@ -10,7 +10,8 @@
 
 <a href="https://criza.dev"><img src="https://img.shields.io/badge/Website-criza.dev-9f1239?style=for-the-badge&labelColor=2b0b14" alt="criza.dev" /></a>
 <a href="https://voise.criza.dev"><img src="https://img.shields.io/badge/CrizaVoise-Free%20billing%20app-ffd6dd?style=for-the-badge&labelColor=2b0b14" alt="CrizaVoise" /></a>
-<a href="https://criza.web.id"><img src="https://img.shields.io/badge/CrizaTools-Free%20browser%20tools-ffe6a6?style=for-the-badge&labelColor=2b0b14" alt="CrizaTools" /></a>
+<a href="https://tools.criza.dev"><img src="https://img.shields.io/badge/CrizaTools-Free%20browser%20tools-ffe6a6?style=for-the-badge&labelColor=2b0b14" alt="CrizaTools" /></a>
+<a href="https://crizo.criza.dev"><img src="https://img.shields.io/badge/Crizo-Android%20app-8af2be?style=for-the-badge&labelColor=0e3b2a" alt="Crizo for Android" /></a>
 <a href="mailto:info@criza.dev"><img src="https://img.shields.io/badge/Email-info%40criza.dev-e9e0ff?style=for-the-badge&labelColor=2b0b14" alt="Email Criza Labs" /></a>
 
 <br />
@@ -60,15 +61,33 @@
       <p><a href="https://voise.criza.dev"><b>Download free</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/CRIZA-LABS/crizavoise">Source code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://criza.web.id"><picture>
+      <a href="https://tools.criza.dev"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizatools-dark.png" />
   <img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizatools-light.png" alt="CrizaTools home page" width="100%" />
 </picture></a>
       <h3><img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizatools-icon.png" width="28" height="28" align="top" alt="" />&nbsp; CrizaTools</h3>
-      <sub><b>27 FREE TOOLS THAT RUN IN YOUR BROWSER</b></sub>
+      <sub><b>FREE TOOLS THAT RUN IN YOUR BROWSER</b></sub>
       <p>JPG to PDF, merge PDF, an image compressor, GST, EMI and SIP calculators, QR codes and a GST invoice generator. No sign-up, nothing uploaded, and it installs as an app that works offline.</p>
       <p><img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" /> <img src="https://img.shields.io/badge/Preact-673AB8?style=flat-square&logo=preact&logoColor=white" alt="Preact" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" /></p>
-      <p><a href="https://criza.web.id"><b>Open CrizaTools</b></a></p>
+      <p><a href="https://tools.criza.dev"><b>Open CrizaTools</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://crizo.criza.dev"><img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizo-app.png" alt="Crizo for Android: Brain and Money screens beside Crizo" width="100%" /></a>
+      <h3><img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizo-app-icon.png" width="28" height="28" align="top" alt="" />&nbsp; Crizo for Android</h3>
+      <sub><b>MEMORIES, REMINDERS AND MONEY, PRIVATE ON YOUR PHONE</b></sub>
+      <p>Bank and UPI payments save themselves, plain words become reminders and lists, and memories keep their place and photos. On-device AI, no account, no ads. Free in early access.</p>
+      <p><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" /> <img src="https://img.shields.io/badge/On--device%20AI-0E3B2A?style=flat-square" alt="On-device AI" /></p>
+      <p><a href="https://crizo.criza.dev/download"><b>Download free</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/CRIZA-LABS/crizo-app">About the app</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://criza.dev"><img src="https://raw.githubusercontent.com/CRIZA-LABS/crizo/main/assets/crizo-banner.png" alt="Crizo, the AI site guide on criza.dev" width="100%" /></a>
+      <h3><img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/crizo-guide-icon.png" width="28" height="28" align="top" alt="" />&nbsp; Crizo, the site guide</h3>
+      <sub><b>AN AI GUIDE THAT LIVES ON CRIZA.DEV</b></sub>
+      <p>A small green character that tours each page, points out useful buttons and answers questions about Criza Labs in a chat grounded in the site's own content.</p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" /></p>
+      <p><a href="https://criza.dev"><b>Meet Crizo</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/CRIZA-LABS/crizo">About Crizo</a></p>
     </td>
   </tr>
 </table>
