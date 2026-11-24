@@ -5,14 +5,16 @@
   <img src="https://raw.githubusercontent.com/CRIZA-LABS/.github/main/profile/assets/banner-light.png" alt="Criza Labs: Your Vision. Our Technology." width="100%" />
 </picture></a>
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&weight=600&size=20&pause=1400&color=DC2626&center=true&vCenter=true&width=680&lines=Websites%2C+apps+and+AI+automation;Makers+of+Crizo%2C+CrizaVoise+and+CrizaTools;Built+in+Gujarat%2C+India" alt="Websites, apps and AI automation · Makers of Crizo, CrizaVoise and CrizaTools · Built in Gujarat, India" /></p>
+
 <br />
 <br />
 
-<a href="https://criza.dev"><img src="https://img.shields.io/badge/Website-criza.dev-9f1239?style=for-the-badge&labelColor=0b1a12" alt="criza.dev" /></a>
-<a href="https://voise.criza.dev"><img src="https://img.shields.io/badge/CrizaVoise-Free%20billing%20app-ffd6dd?style=for-the-badge&labelColor=0b1a12" alt="CrizaVoise" /></a>
-<a href="https://tools.criza.dev"><img src="https://img.shields.io/badge/CrizaTools-Free%20browser%20tools-ffe6a6?style=for-the-badge&labelColor=0b1a12" alt="CrizaTools" /></a>
-<a href="https://crizo.criza.dev"><img src="https://img.shields.io/badge/Crizo-Android%20app-8af2be?style=for-the-badge&labelColor=0e3b2a" alt="Crizo for Android" /></a>
-<a href="mailto:info@criza.dev"><img src="https://img.shields.io/badge/Email-info%40criza.dev-e9e0ff?style=for-the-badge&labelColor=0b1a12" alt="Email Criza Labs" /></a>
+<a href="https://criza.dev"><img src="https://img.shields.io/badge/Website-criza.dev-dc2626?style=for-the-badge&labelColor=0b1a12" alt="criza.dev" /></a>
+<a href="https://voise.criza.dev"><img src="https://img.shields.io/badge/CrizaVoise-Free%20billing%20app-4f46e5?style=for-the-badge&labelColor=0b1a12" alt="CrizaVoise" /></a>
+<a href="https://tools.criza.dev"><img src="https://img.shields.io/badge/CrizaTools-Free%20browser%20tools-1f2937?style=for-the-badge&labelColor=0b1a12" alt="CrizaTools" /></a>
+<a href="https://crizo.criza.dev"><img src="https://img.shields.io/badge/Crizo-Android%20app-0e3b2a?style=for-the-badge&labelColor=0e3b2a" alt="Crizo for Android" /></a>
+<a href="mailto:info@criza.dev"><img src="https://img.shields.io/badge/Email-info%40criza.dev-dc2626?style=for-the-badge&labelColor=0b1a12" alt="Email Criza Labs" /></a>
 
 <br />
 <br />
